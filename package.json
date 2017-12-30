@@ -1,0 +1,19 @@
+{
+  "name": "angular_todolist",
+  "version": "1.0.0",
+  "description": "Creating todo-list with AngularJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadayulu/angular-todoList.git"
+  },
+  "author": "David Yonwook Chung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nadayulu/angular-todoList/issues"
+  },
+  "homepage": "https://github.com/Nadayulu/angular-todoList#readme"
+}
